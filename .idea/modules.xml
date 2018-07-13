@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kt-spring-jpa-jackson/kt-spring-jpa-jackson.iml" filepath="$PROJECT_DIR$/kt-spring-jpa-jackson/kt-spring-jpa-jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jackson.iml" filepath="$PROJECT_DIR$/spring-jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jpa-jackson/spring-jpa-jackson.iml" filepath="$PROJECT_DIR$/spring-jpa-jackson/spring-jpa-jackson.iml" />
+    </modules>
+  </component>
+</project>
